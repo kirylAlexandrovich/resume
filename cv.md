@@ -12,10 +12,13 @@ Skills:
 - CSS3
 - React
 
-https://github.com/kirylAlexandrovich
-https://github.com/kirylAlexandrovich/game/tree/develop
+My works:
+- https://github.com/kirylAlexandrovich
+- https://github.com/kirylAlexandrovich/game/tree/develop
 
 Courses: 
 - IT-Academy course: HTML CSS JS,
 - lern.javascript.ru course Javascript/DOM/interfaces
 - RollingScopseSchool 
+
+I learn english about a year and my level now is Pre Intermediate.
