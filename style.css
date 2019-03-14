@@ -25,7 +25,7 @@ td {
 }
 
 .cv-container {
-  max-width: 1024px;
+  max-width: 1050px;
   margin: 20px auto;
   padding: 10px;
   background-color: #ffffff;
@@ -44,6 +44,10 @@ td {
   font-size: 13px;
 }
 
+.space-between-links {
+  margin-top: 5px;
+}
+
 .cv-info-container {
   display: flex;
   flex-direction: row;
@@ -58,12 +62,12 @@ td {
   background-color: #ecf0f1;
 }
 
-ul li ul {
+.second-layer-list {
   padding: 5px 0 20px 5px;
   list-style: none;
 }
 
-section ul {
+.profile-list {
   padding-left: 35px; 
 }
 
@@ -91,6 +95,10 @@ section ul {
 
 .align-icons {
   line-height: 3rem;
+}
+
+.education-info-title {
+  margin-top: 5px;
 }
 
 .title-year-container {
