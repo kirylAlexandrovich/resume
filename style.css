@@ -40,7 +40,7 @@ td {
     border: 2px solid black;
 }
 
-.small-font {
+.font-for-link {
   font-size: 13px;
 }
 
@@ -51,4 +51,72 @@ td {
 
 .cv-profile-info {
   flex: 1;
+}
+.cv-additional-info {
+  padding: 15px;
+  flex: 3;
+  background-color: #ecf0f1;
+}
+
+ul li ul {
+  padding: 5px 0 20px 5px;
+  list-style: none;
+}
+
+section ul {
+  padding-left: 35px; 
+}
+
+.icons-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+  width: 40px;
+  height: 40px;
+  float: left;
+  background-color: #000000;
+  border-radius: 50%;
+  border: 2px solid #000000;
+  box-shadow: 0px 0px 0px 1px #ffffff inset;
+}
+
+.icons-container .material-icons {
+  position: relative;
+  top: 0;
+  left: 0;
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.align-icons {
+  line-height: 3rem;
+}
+
+.title-year-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 40px;
+}
+
+.title-year-name {
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+.title-year-description {
+  margin: 5px 0 10px;
+  font-size: 15px;
+}
+
+.year-style {
+  margin: 0 0 35px;
+  font-size: 18px;
+  font-weight: 500;
+}
+.skills-container {
+  display: flex;
+  justify-content: space-evenly;
 }
