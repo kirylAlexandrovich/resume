@@ -1,1 +1,1 @@
-# https://kirylalexandrovich.github.io/rsschool-2019Q1-cv/
+# https://kirylalexandrovich.github.io/resume/
